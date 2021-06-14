@@ -1,0 +1,11 @@
+.App {
+  font-family: bold;
+  text-align: center;
+}
+.App input {
+  border: 2px solid goldenrod;
+  border-radius: 0.6rem;
+  padding: 1rem;
+  width: 70%;
+  margin-bottom: 1rem;
+}
